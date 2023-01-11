@@ -43,7 +43,7 @@ INSTALLED_APPS = [
 
 #LOCAL_APPS
 
-    'Academica'
+    'Modelos.Academica'
 
 
 #THIRD_APPS

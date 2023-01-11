@@ -1,5 +1,5 @@
 from django.contrib import admin
-from Academica.models import *
+from Modelos.Academica.models import *
 
 # Register your models here.
 
